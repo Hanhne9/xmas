@@ -1,0 +1,7 @@
+{
+  "name": "Xmas Particle Spirit",
+  "description": "Hệ thống hạt 3D tương tác thời gian thực, biến hình thành cây thông Noel lung linh thông qua cử chỉ tay của người dùng.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
